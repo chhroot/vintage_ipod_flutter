@@ -1,6 +1,6 @@
 # Vintage Ipod UI
 
-Mockup of old ipod user interface
+Mockup of old ipod user interface, with gestures and animated album cards
 
 <p align="middle">
   <img src="https://user-images.githubusercontent.com/92013594/206984687-0dff595f-f325-4085-9d84-b10eb527b2c3.png" width="200" />
